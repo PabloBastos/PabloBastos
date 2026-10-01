@@ -2,7 +2,9 @@
 
 **FullStack em Formação | Estudante de Engenharia da Computação**
 
-Meu nome é Pablo e sou estudante de Engenharia da Computação na UNIFACS, com foco em desenvolvimento web e desenvolvimento de software. Atualmente atuo como estagiário de Desenvolvimento e Suporte Técnico na Alma Tecnologia, onde desenvolvo soluções que automatizam processos internos e aprimoram o atendimento ao cliente. Entre os projetos que implementei estão automações com IA utilizando N8N, integração de APIs, agentes inteligentes para WhatsApp e aplicações conteinerizadas com Docker. Tenho experiência com JavaScript, Python, HTML, CSS e bancos de dados, e busco constantemente expandir meus conhecimentos em tecnologias modernas para criar soluções eficientes, escaláveis e orientadas à automação.
+Sou estudante de Engenharia da Computação e estou construindo minha carreira em desenvolvimento de software, com interesse principalmente em Backend e Fullstack.
+Tenho experiência prática com *JavaScript, Python e Java*, além de desenvolvimento web, APIs REST, bancos de dados, Docker e Inteligência Artificial.
+Gosto de entender como as soluções funcionam por trás e de transformar problemas reais em aplicações e automações práticas. Este perfil reúne projetos, estudos e experiências que fazem parte da minha evolução como desenvolvedor.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bastospablo/">
