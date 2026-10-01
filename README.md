@@ -3,7 +3,7 @@
 **FullStack em Formação | Estudante de Engenharia da Computação**
 
 Sou estudante de Engenharia da Computação e estou construindo minha carreira em desenvolvimento de software, com interesse principalmente em Backend e Fullstack.
-Tenho experiência prática com *JavaScript, Python e Java*, além de desenvolvimento web, APIs REST, bancos de dados, Docker e Inteligência Artificial.
+Tenho experiência prática com *JavaScript, Python e Java*, além de desenvolvimento web, bancos de dados, Docker e Inteligência Artificial.
 Gosto de entender como as soluções funcionam por trás e de transformar problemas reais em aplicações e automações práticas. Este perfil reúne projetos, estudos e experiências que fazem parte da minha evolução como desenvolvedor.
 
 <p align="left">
@@ -17,7 +17,7 @@ Gosto de entender como as soluções funcionam por trás e de transformar proble
 ## 🧩 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,react,nodejs,mysql,postgres,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,py,react,nodejs,mysql,postgres,docker,linux" />
 </p>
 
 ---
