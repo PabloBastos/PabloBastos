@@ -25,6 +25,6 @@ Gosto de entender como as soluções funcionam por trás e de transformar proble
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=EngPabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngPabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=PabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
